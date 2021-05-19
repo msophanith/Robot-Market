@@ -1,4 +1,4 @@
-I upload only fronted into this Repository. I am hoping that it works fine, but if you add the product to the cart and the price does not show up please refresh it.
+I upload only fronted into this Repository. I am hoping that it works fine, but if you add the product to the cart and the price does not show up please refresh cart page.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

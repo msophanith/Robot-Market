@@ -29,6 +29,10 @@ export class Products extends Component {
                       style: 'currency',
                       currency: 'THB',
                     }).format(product.price)}
+                    /* {new Intl.NumberFormat('km-KM', {
+                      style: 'currency',
+                      currency: 'KHR',
+                    }).format(product.price)} */
                     </span>
                   <p>{product.stock > 0 ? (
                       <small>{product.stock + " Available"}</small>
